@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+t7g;7th Guest, The (CD DOS);ScummVM;;1993;Trilobyte;Adventure;;;;;0;;;;;;;;;
+sky;Beneath a Steel Sky (CD VGA);ScummVM;;1994;Revolution Software;Adventure;;;;;0;;;;;;;;;
+comi;Curse of Monkey Island, The (CD Windows);ScummVM;;1997;LucasArts;Adventure;;;;;0;;;;;;;;;
+tentacle;Day of the Tentacle (CD DOS);ScummVM;;1993;LucasArts;Adventure;;;;;0;;;;;;;;;
+dig;Dig, The (CD DOS);ScummVM;;1995;LucasArts;Adventure;;;;;0;;;;;;;;;
+ft;Full Throttle (CD DOS);ScummVM;;1995;LucasArts;Driving;;;;;0;;;;;;;;;
+atlantis-fm;Indiana Jones and the Fate of Atlantis (FM Towns);ScummVM;;1992;LucasArts;Adventure;;;;;0;;;;;;;;;
+indy3-fm;Indiana Jones and the Last Crusade (FM Towns);ScummVM;;1989;Lucasfilm Games;Action;;;;;0;;;;;;;;;
+lsl1sci;Leisure Suit Larry 1 - In the Land of the Lounge Lizards (Floppy DOS VGA Remake);ScummVM;;1991;Sierra On-Line;Adventure;;;;;0;;;;;;;;;
+lsl2;Leisure Suit Larry 2 - Goes Looking for Love (in Several Wrong Places) (Floppy DOS);ScummVM;;1988;Sierra On-Line;Adventure;;;;;0;;;;;;;;;
+lsl3;Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals (Floppy DOS);ScummVM;;1989;Sierra Entertainment;Adventure;;;;;0;;;;;;;;;
+lsl5;Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work (Floppy DOS);ScummVM;;1991;Sierra Entertainment;Adventure;;;;;0;;;;;;;;;
+lsl6-cd;Leisure Suit Larry 6 - Shape Up or Slip Out! (CD DOS);ScummVM;;1993;Sierra On-Line;Adventure;;;;;0;;;;;;;;;
+loom-fm;Loom (CD FM Towns);ScummVM;loom-vga;1991;Lucasfilm Games;Adventure;;;;;0;;;;;;;;;
+maniac-v2;Maniac Mansion (Floppy DOS v2 Enhanced);ScummVM;;1987;Lucasfilm Games;Adventure;;;;;0;;;;;;;;;
+monkey2;Monkey Island 2 - LeChuck's Revenge (Floppy DOS VGA);ScummVM;;1991;LucasArts;Adventure;;;;;0;;;;;;;;;
+samnmax;Sam & Max Hit the Road (CD DOS);ScummVM;;1993;LucasArts;Adventure;;;;;0;;;;;;;;;
+monkey;Secret of Monkey Island, The (CD DOS VGA);ScummVM;;1990;Lucasfilm Games;Adventure;;;;;0;;;;;;;;;
+zak-fm;Zak McKracken and the Alien Mindbenders (FM Towns);ScummVM;;1988;Lucasfilm Games;Adventure;;;;;0;;;;;;;;;
